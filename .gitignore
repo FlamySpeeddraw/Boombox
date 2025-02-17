@@ -1,0 +1,6 @@
+#Fichiers compilés et intermédiaires
+bin/
+obj/
+
+#Fichiers de debug
+*.pdb
