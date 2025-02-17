@@ -1,0 +1,10 @@
+{
+  "Name": "Boombox",
+  "Author": "Flamy",
+  "Version": "1.0.0",
+  "Description": "Une boombox pour jouer de la musique",
+  "UniqueID": "Flamy.Boombox",
+  "EntryDll": "Boombox.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

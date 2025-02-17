@@ -1,0 +1,8 @@
+C:\Users\Sacha\source\repos\Stardew Valley Mods\Boombox\bin\Debug\net6.0\Boombox.deps.json
+C:\Users\Sacha\source\repos\Stardew Valley Mods\Boombox\bin\Debug\net6.0\Boombox.dll
+C:\Users\Sacha\source\repos\Stardew Valley Mods\Boombox\obj\Debug\net6.0\Boombox.csproj.AssemblyReference.cache
+C:\Users\Sacha\source\repos\Stardew Valley Mods\Boombox\obj\Debug\net6.0\Boombox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sacha\source\repos\Stardew Valley Mods\Boombox\obj\Debug\net6.0\Boombox.AssemblyInfoInputs.cache
+C:\Users\Sacha\source\repos\Stardew Valley Mods\Boombox\obj\Debug\net6.0\Boombox.AssemblyInfo.cs
+C:\Users\Sacha\source\repos\Stardew Valley Mods\Boombox\obj\Debug\net6.0\Boombox.csproj.CoreCompileInputs.cache
+C:\Users\Sacha\source\repos\Stardew Valley Mods\Boombox\obj\Debug\net6.0\Boombox.dll
